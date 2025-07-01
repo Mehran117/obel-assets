@@ -1,0 +1,15 @@
+{
+  "name": "OBEL",
+  "symbol": "OBEL",
+  "description": "OBEL Token on Solana",
+  "image": "https://raw.githubusercontent.com/Mehran117/obel-assets/main/OBEL_logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Mehran117/obel-assets/main/OBEL_logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
